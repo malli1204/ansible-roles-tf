@@ -1,1 +1,1 @@
-MONGODB_HOST: "mongodb{{ env }}.malli12.site"
+MONGODB_HOST: "mongodb.malli12.site"
